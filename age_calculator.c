@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <time.h>
  
-/*check given year is leap year or not*/
+
+
 int isLeapYear(int year, int mon) 
 {
     int flag = 0;
